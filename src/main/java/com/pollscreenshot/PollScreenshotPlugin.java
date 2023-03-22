@@ -37,7 +37,6 @@ import java.util.concurrent.ThreadLocalRandom;
 @Slf4j
 @PluginDescriptor(
         name = "Poll Screenshot",
-        enabledByDefault = false,
         description = "Screenshots polls"
 )
 public class PollScreenshotPlugin extends Plugin
